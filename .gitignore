@@ -1,0 +1,5 @@
+# Don't stage notebooks checkpoints
+**/.ipynb_checkpoints
+
+# Images
+Images/
